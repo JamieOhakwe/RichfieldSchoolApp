@@ -8,4 +8,4 @@ export default function Home() {
       <h1 className="color">Hello World</h1>
     </div>
   );
-}
+} 
